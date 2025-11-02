@@ -1,1 +1,1 @@
-All the txt file should be in /bin/debug/ directory.
+All the txt files should be in /bin/debug/ directory.
